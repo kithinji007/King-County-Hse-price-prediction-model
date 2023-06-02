@@ -41,4 +41,4 @@ Seaborn <br>
 Matplotlib<br>
 Scikit Learn<br>
 Statsmodel<br>
-Statsmodels
+Plotly
