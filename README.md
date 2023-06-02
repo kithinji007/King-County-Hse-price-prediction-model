@@ -35,10 +35,10 @@ Highlight the significant impact of square footage of living space on house pric
 The number of bathrooms and bedrooms also have a positive correlation with the value of a house. Therefore, during renovation adding a bedroom would increase the value of the house!
 
 ### Python Library Tools
-Pandas
-Numpy
-Seaborn
-Matplotlib
-Scikit Learn
-Statsmodel
+Pandas <br>
+Numpy <br>
+Seaborn <br>
+Matplotlib<br>
+Scikit Learn<br>
+Statsmodel<br>
 Statsmodels
