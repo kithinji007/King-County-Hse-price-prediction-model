@@ -13,15 +13,15 @@ The objective of this project is to deliver valuable insights to a real estate a
 
 ### Data Understanding
 The dataset utilized in this project was obtained in CSV format from Kaggle, consisting of  21 variables, 21,597 records. It includes the following features: id, date, price, bedrooms, bathrooms, sqft_living, sqft_loft, floors, waterfront, view, condition, grade, sqft_above, sqft_basement, yr_built, yr_renovated, zipcode, latitude, and longitude.
-![data](https://github.com/kithinji007/Six-Sense-Agency-Hse-price-prediction-model/blob/main/data.png)
+![data](https://github.com/kithinji007/Six-Sense-Agency-Hse-price-prediction-model/blob/main/images/data.png)
 Key Predictors: Square foot of living, house grade, condition of the house, No. of floors, bedrooms and bathrooms,  presence of a waterfront, year renovated, year the house was built, and Sales price being the target variable
 
 ### Data Correlation
-![Heatmap](https://github.com/kithinji007/Six-Sense-Agency-Hse-price-prediction-model/blob/main/Heatmap.png)
+![Heatmap](https://github.com/kithinji007/Six-Sense-Agency-Hse-price-prediction-model/blob/main/images/Heatmap.png)
 sqft_living, bathrooms, grade and sqft_above have multicollinearity of  0.7 and above.  This information is useful in deciding which variables  to use in our model to avoid inaccuracies. Square fit leaving has the highest correlation with price
 
 ### Modelling
-![Model](https://github.com/kithinji007/Six-Sense-Agency-Hse-price-prediction-model/blob/main/Model.png)
+![Model](https://github.com/kithinji007/Six-Sense-Agency-Hse-price-prediction-model/blob/main/images/Model.png)
 From the plot we can now say that it follows the normality assumption. The spread/dispersion of residuals is more relatively consistent. We have a close to perfect goodness of fit. Our r-squared of about 76% explains the variance in price. This shows that a larger proportion of the variability in price is accounted for by the predictor variables.
 
 ### Conclusions
