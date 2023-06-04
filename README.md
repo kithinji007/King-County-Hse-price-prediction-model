@@ -1,5 +1,5 @@
 # 6-SENSE AGENCY HOUSE PRICE PREDICTION MODEL  
-![house_image](https://github.com/kithinji007/Six-Sense-Agency-Hse-price-prediction-model/blob/main/house_image.jpg)
+![house_image](https://github.com/kithinji007/Six-Sense-Agency-Hse-price-prediction-model/blob/main/images/house_image.jpg)
 
 ## Objective
 The main goal of this research project is to identify and analyze the key factors that have a significant influence on house prices in King County. 
